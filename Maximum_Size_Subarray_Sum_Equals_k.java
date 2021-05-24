@@ -1,3 +1,5 @@
+
+//Given an integer array nums and an integer k, return the maximum length of a subarray that sums to k. If there isn't one, return 0 instead.
 class Solution {
     public int maxSubArrayLen(int[] nums, int k) {
         
